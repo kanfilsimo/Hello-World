@@ -1,5 +1,5 @@
 # Hello-World
-beginning 
-trees are awesome, but i'm a human...
-day 1, following instructions.
-lets see where this leads me...
+# Beginning 
+# Trees are awesome, but i'm a human, its day 1 & i'm just following instructions.
+
+#lets see where this leads me...
